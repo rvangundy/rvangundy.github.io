@@ -3,4 +3,4 @@ window.onload = function() {
   div.innerHTML = 'Trackback: <a href="' + document.referrer + '">' + document.referrer + '</a>';
   
   document.body.appendChild(div);
-});
+};
